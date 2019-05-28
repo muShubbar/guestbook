@@ -1,0 +1,58 @@
+#commentsListBox {
+	width: 50%;
+	margin: 0 auto;
+}
+.list-group {
+	font-size: 16px;
+}
+.decide-body {
+	background-image: url('../gb-imgs/red-background.jpg');
+	text-align: center;
+	color: #FFF;
+	height: 100%;
+}
+.isPublished {
+	padding: 5px;
+	margin: 5px;
+	background-color: lightgrey;
+	border: 1px grey solid;
+	font-weight: bold;
+	color: black;
+	display: inline-block;
+}
+.isPublished:hover {
+	background-color: black;
+	color: white;
+}
+#adminNav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+.adminNav {
+	float: right;
+}
+.adminNav a {
+	display: block;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+	padding: 10px 10px;
+	text-decoration: none;
+}
+#backToCp {
+	text-decoration: none;
+	padding: 5px;
+	margin: 5px;
+	background-color: lightgrey;
+	border: 1px grey solid;
+	font-weight: bold;
+	color: black;
+}
+#backToCp:hover {
+	background-color: black;
+	color: white;
+}
+
